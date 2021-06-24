@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/where-is-waldo/static/css/main.d13d332e.chunk.css",
+    "main.js": "/where-is-waldo/static/js/main.1bdf2cda.chunk.js",
+    "main.js.map": "/where-is-waldo/static/js/main.1bdf2cda.chunk.js.map",
+    "runtime-main.js": "/where-is-waldo/static/js/runtime-main.08ca3bc9.js",
+    "runtime-main.js.map": "/where-is-waldo/static/js/runtime-main.08ca3bc9.js.map",
+    "static/js/2.0a8e3ef6.chunk.js": "/where-is-waldo/static/js/2.0a8e3ef6.chunk.js",
+    "static/js/2.0a8e3ef6.chunk.js.map": "/where-is-waldo/static/js/2.0a8e3ef6.chunk.js.map",
+    "index.html": "/where-is-waldo/index.html",
+    "static/css/main.d13d332e.chunk.css.map": "/where-is-waldo/static/css/main.d13d332e.chunk.css.map",
+    "static/js/2.0a8e3ef6.chunk.js.LICENSE.txt": "/where-is-waldo/static/js/2.0a8e3ef6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/where-is-waldo/static/media/bananaslipplus-webfont.ebc2c2e1.woff2",
+    "static/media/kirby.fb449d5f.png": "/where-is-waldo/static/media/kirby.fb449d5f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08ca3bc9.js",
+    "static/js/2.0a8e3ef6.chunk.js",
+    "static/css/main.d13d332e.chunk.css",
+    "static/js/main.1bdf2cda.chunk.js"
+  ]
+}
